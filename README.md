@@ -1,10 +1,10 @@
 # Владимир | Fullstack Developer
 
 
-## 🛠️ Мой стек технологий (The Blend)
-*   **Front-end:** React (Эстетика и динамика)
-*   **Back-end:** Python (FastAPI / Flask), Golang (Скорость и архитектура)
-*   **AI Integration:** Внедряю возможности ИИ для автоматизации и новых UX-паттернов.
+## 🛠️ Стек (The Stack)
+  [   REACT   ]   [  PYTHON  ]   [  FASTAPI  ]
+  [   FLASK   ]   [  GOLANG  ]   [  AI / ML  ]
+
 *   **Философия:** Постоянное обучение новому при сохранении фундаментальных знаний.
 
 ---
