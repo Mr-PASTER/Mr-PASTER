@@ -1,16 +1,29 @@
-## Hi there 👋
+# Владимир | Fullstack Developer
 
-<!--
-**Mr-PASTER/Mr-PASTER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек технологий (The Blend)
+*   **Front-end:** React (Эстетика и динамика)
+*   **Back-end:** Python (FastAPI / Flask), Golang (Скорость и архитектура)
+*   **AI Integration:** Внедряю возможности ИИ для автоматизации и новых UX-паттернов.
+*   **Философия:** Постоянное обучение новому при сохранении фундаментальных знаний.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Проекты в фокусе
+### CS2 Demo Analyzer
+*Анализатор игровых демоснимков.*
+Готовится к открытию исходного кода. Глубокий анализ данных в сочетании с понятной визуализацией.
+[GitHub: Soon]
+
+---
+
+## 🔒 Текущие наработки (Now Brewing...)
+### E2E Encrypted Messenger
+*Мессенджер со сквозным шифрованием.*
+- Главная особенность: Сообщения **не хранятся** на сервере.
+- Множество авторских механизмов защиты и шифрования. 
+- Проект на стыке безопасности и приватности.
+
+---
+
+> "Свежий код, горячий кофе, бесконечные возможности."
